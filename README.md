@@ -7,8 +7,11 @@ By integrating R and SAS together, you can access the strengths of both language
 
 # Session Information
 Format: Learning session (demo only)
+
 Estimated Duration: 45 minutes of content.
+
 SAS 9, SAS Viya, SAS Viya Workbench, R
+
 Presented by: Shelby Taylor Nielson, Technical Training Consultant, SAS Institute
 
 
